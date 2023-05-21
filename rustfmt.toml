@@ -1,0 +1,6 @@
+comment_width = 80
+wrap_comments = true
+hard_tabs = false
+max_width = 80
+normalize_comments = true
+tab_spaces = 2

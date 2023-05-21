@@ -1,0 +1,3 @@
+PUSH1 1
+PUSH1 1
+ADD
